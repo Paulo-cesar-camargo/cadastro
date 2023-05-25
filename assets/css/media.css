@@ -25,5 +25,8 @@
     .genero_grup{
         flex-direction: column;
     }
+    body{
+        background-color: brown;
+    }
 
 }
